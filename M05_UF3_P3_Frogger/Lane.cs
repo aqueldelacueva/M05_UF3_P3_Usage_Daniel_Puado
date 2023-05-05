@@ -58,6 +58,7 @@ namespace M05_UF3_P3_Frogger
                 }
             }
         }
+
         public void Update()
         {
             foreach (DynamicElement element in elements)
